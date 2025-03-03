@@ -1,2 +1,2 @@
 # phome
-dotfiles for vm
+dotfiles for my vm
